@@ -1,0 +1,56 @@
+{
+  "language": "de",
+  "category": "Statische FAQs",
+  "last_updated": "2026-06-19",
+  "faqs": [
+    {
+      "id": 1,
+      "question": "Was ist StudOn?",
+      "answer": "StudOn (Studium Online) ist die Lern- und Prüfungsplattform der FAU. Über StudOn kannst du dich zu Lehrveranstaltungen anmelden, Seminarunterlagen und Literaturlisten abrufen, mit Lehrenden und Kommilitonen in Foren und Chats kommunizieren und Online-Prüfungen ablegen.",
+      "category": "Plattformen",
+      "sources": ["https://www.studon.fau.de"]
+    },
+    {
+      "id": 2,
+      "question": "Was ist Campo?",
+      "answer": "Campo ist das Verwaltungsportal der FAU. Dort kannst du deine Studiengangsdaten verwalten, dich zu Prüfungen anmelden, Noten einsehen und Studienbescheinigungen ausdrucken.",
+      "category": "Plattformen",
+      "sources": ["https://www.campo.fau.de"]
+    },
+    {
+      "id": 3,
+      "question": "Wo finde ich das Prüfungsamt?",
+      "answer": "Das Prüfungsamt der WiSo erreichst du unter: www.wiso.fau.de/pruefungsamt",
+      "category": "Kontaktpunkte",
+      "sources": ["https://www.wiso.fau.de/pruefungsamt"]
+    },
+    {
+      "id": 4,
+      "question": "Wo finde ich die Modulhandbücher?",
+      "answer": "Die Modulhandbücher findest du unter: https://www.wiso.rw.fau.de/studium/im-studium/modulhandbuecher/. Dort sind alle Module mit Beschreibungen, ECTS und Prüfungsformen aufgelistet.",
+      "category": "Module",
+      "sources": ["https://www.wiso.rw.fau.de/studium/im-studium/modulhandbuecher/"]
+    },
+    {
+      "id": 5,
+      "question": "Was ist der Unterschied zwischen einer Übung und einem Tutorium?",
+      "answer": "Übungen werden durch einen wissenschaftlichen Mitarbeiter des Lehrstuhls durchgeführt. Die dort behandelten Themen sind prüfungsrelevant. Übungen können auch verpflichtend sein. Das hängt vom Modul ab. Tutorien werden von Hiwis (Studenten) durchgeführt und sind nicht verpflichtend. Hier werden die Themen aus Vorlesung und Übung noch einmal in 'studentenfreundlicher Sprache' erklärt.",
+      "category": "Module",
+      "sources": []
+    },
+    {
+      "id": 6,
+      "question": "Muss ich mein Studium nach dem Regelstudienplan machen?",
+      "answer": "Nein. Der Regelstudienplan dient als Orientierung. Aber es macht Sinn, sich danach zu richten, weil die Module fachlich oftmals aufeinander aufbauen.",
+      "category": "Studienstart",
+      "sources": []
+    },
+    {
+      "id": 7,
+      "question": "Wo finde ich die Allgemeine Studienberatung?",
+      "answer": "Die Allgemeine Studienberatung findest du unter: www.ibz.fau.de",
+      "category": "Kontaktpunkte",
+      "sources": ["https://www.ibz.fau.de"]
+    }
+  ]
+}

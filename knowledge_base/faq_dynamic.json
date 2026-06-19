@@ -1,0 +1,29 @@
+{
+  "language": "de",
+  "category": "Dynamische FAQs (Semesterspezifisch)",
+  "semester": "SS2026",
+  "last_updated": "2026-06-19",
+  "faqs": [
+    {
+      "id": 101,
+      "question": "Wann ist die Klausurenphase?",
+      "answer": "Das wird auf der Homepage des Prüfungsamtes bekanntgegeben. Im Wintersemester i.d.R. zwischen Anfang Februar und Mitte April. Im Sommersemester i.d.R. zwischen Mitte Juli und Mitte Oktober.",
+      "category": "Prüfungen",
+      "sources": ["https://www.wiso.fau.de/pruefungsamt"]
+    },
+    {
+      "id": 102,
+      "question": "Wann muss ich mich wieder rückmelden?",
+      "answer": "Dies ist im Sommersemester meist in der ersten Juli Woche. Hierfür erhält man aber eine E-Mail und wird erinnert.",
+      "category": "Verwaltung",
+      "sources": []
+    },
+    {
+      "id": 103,
+      "question": "Gibt es eine Einführungswoche für Erstsemester?",
+      "answer": "Ja! Zu Beginn eines jedes Wintersemesters veranstaltet der Fachbereich in der ersten Semesterwoche verschiedene Einführungsveranstaltungen. Hierbei finden unter anderem zahlreiche Begrüßungsveranstaltungen sowie das Unternehmensplanspiel statt. Zudem gibt es ein Mentorenprogramm zur gezielten Unterstützung bei Problemen und organisatorischen Fragen.",
+      "category": "Studienstart",
+      "sources": []
+    }
+  ]
+}
